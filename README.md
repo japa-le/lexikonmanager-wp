@@ -6,7 +6,6 @@ Custom WordPress plugin zur Verwaltung von Lexikon-Einträgen inkl. Shortcodes, 
 
 - Custom Post Type `lexikon`
 - Metaboxen für Buchstabe, Kategorien (Tabs), Video-/Datei-/Bild-URL, Blog-Post-ID
-- `lexikon.js` erweitert primär das Verhalten der bestehenden Elementor-Tabs (UI/Interaktion), statt ein eigenes Tab-System zu ersetzen
 - Shortcodes:
   - `[lexikon_display type="verbraucher|regel|firmen"]`
   - `[lexikon_search type="verbraucher|regel|firmen"]`
